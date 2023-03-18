@@ -1,5 +1,9 @@
 # OAM_Lenet
-这是关于文章“Experimental Realization of a Quantum Classification: Bell State Measurement via Machine Learning, Qing-Yuan Wu, Zhe Meng, Xiao-Xiao Chen, Jian Li, Jia-Zhi Yang, An-Ning Zhang*”的代码
+这是关于文章的代码：
+
+Experimental Realization of a Quantum Classification: Bell State Measurement via Machine Learning
+
+Qing-Yuan Wu, Zhe Meng, Xiao-Xiao Chen, Jian Li, Jia-Zhi Yang, An-Ning Zhang*
 
 在本代码中，我们演示了使用基于激光产生的干涉图像训练的模型对采样率为1%的基于单光子源产生的干涉图像进行识别。对于其他采样率的干涉图像，我们使用相同的识别方法，只需要替换相应的测试集即可。
 
