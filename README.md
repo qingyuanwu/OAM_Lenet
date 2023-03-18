@@ -5,6 +5,8 @@ Experimental Realization of a Quantum Classification: Bell State Measurement via
 
 Qing-Yuan Wu, Zhe Meng, Xiao-Xiao Chen, Jian Li, Jia-Zhi Yang, An-Ning Zhang*
 
+Center for Quantum Technology Research and Key Laboratory of Advanced Optoelectronic Quantum Architecture and Measurements (MOE), School of physics, Beijing Institute of Technology, Haidian District, Beijing, 100081, China
+
 在本代码中，我们演示了使用基于激光产生的干涉图像训练的模型对采样率为1%的基于单光子源产生的干涉图像进行识别。对于其他采样率的干涉图像，我们使用相同的识别方法，只需要替换相应的测试集即可。
 
 需要说明的是，在每次重新训练后，模型的结果会有些许改变。
