@@ -14,7 +14,13 @@ Center for Quantum Technology Research and Key Laboratory of Advanced Optoelectr
 如有任何问题，请通过电子邮件anningzhang@bit.edu.cn or 3120201520@bit.edu.cn与我们联系。
 
 
-This is the code for the article "Experimental Realization of a Quantum Classification: Bell State Measurement via Machine Learning, Qing-Yuan Wu, Zhe Meng, Xiao-Xiao Chen, Jian Li, Jia-Zhi Yang, An-Ning Zhang*".
+This is the code for the article: 
+
+"Experimental Realization of a Quantum Classification: Bell State Measurement via Machine Learning
+
+Qing-Yuan Wu, Zhe Meng, Xiao-Xiao Chen, Jian Li, Jia-Zhi Yang, An-Ning Zhang*
+
+Center for Quantum Technology Research and Key Laboratory of Advanced Optoelectronic Quantum Architecture and Measurements (MOE), School of physics, Beijing Institute of Technology, Haidian District, Beijing, 100081, China"
 
 In this code we demonstrate the recognition of interference images based on the single photon source with a sampling rate of 1% using a model trained on laser-generated interference images. For other sampling rates of interference images, we use the same recognition method and simply replace the corresponding test set.
 
