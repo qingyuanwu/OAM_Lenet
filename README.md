@@ -11,7 +11,7 @@ Center for Quantum Technology Research and Key Laboratory of Advanced Optoelectr
 
 需要说明的是，在每次重新训练后，模型的结果会有些许改变。
 
-如有任何问题，请通过电子邮件anningzhang@bit.edu.cn or 3120201520@bit.edu.cn与我们联系。
+如有任何问题，请通过电子邮件anningzhang@bit.edu.cn or 3120235262@bit.edu.cn与我们联系。
 
 
 This is the code for the article: 
@@ -26,4 +26,4 @@ In this code we demonstrate the recognition of interference images based on the 
 
 It should be noted that the results of the model will change slightly after each retraining.
 
-If you have any questions, please contact us via email at anningzhang@bit.edu.cn or 3120201520@bit.edu.cn.
+If you have any questions, please contact us via email at anningzhang@bit.edu.cn or 3120235262@bit.edu.cn.
