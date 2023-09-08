@@ -27,3 +27,6 @@ In this code we demonstrate the recognition of interference images based on the 
 It should be noted that the results of the model will change slightly after each retraining.
 
 If you have any questions, please contact us via email at anningzhang@bit.edu.cn or 3120235262@bit.edu.cn.
+
+Data Availability：
+The data and source code that support the findings of this study are available at the GitHub repository (https://github.com/qingyuanwu/OAM_Lenet).
